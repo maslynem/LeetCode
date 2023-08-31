@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 8/13 = 58%
+Solve myself 9/15 = 60%
 
 | #      | Title                                                                                                                               | Solution                                                                       | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------|
@@ -20,4 +20,5 @@ Solve myself 8/13 = 58%
 | 200    | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                               | [Java](src/main/java/NumberOfIslands/Solution.java)                            | Medium     |
 | *1326  | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [Java](src/main/java/MinimumNumberOfTapsToOpenToWaterAGarden/Solution.java)    | Hard       |
 | 3      | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)     | [Java](src/main/java/LongestSubstringWithoutRepeatingCharacters/Solution.java) | Medium     |
+| 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                     | [Java](src/main/java/SearchInsertPosition/Solution.java)                       | Easy       |
 
