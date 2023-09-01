@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 9/15 = 60%
+Solve myself 10/16 = 63%
 
 | #      | Title                                                                                                                               | Solution                                                                       | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------|
@@ -21,4 +21,5 @@ Solve myself 9/15 = 60%
 | *1326  | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [Java](src/main/java/MinimumNumberOfTapsToOpenToWaterAGarden/Solution.java)    | Hard       |
 | 3      | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)     | [Java](src/main/java/LongestSubstringWithoutRepeatingCharacters/Solution.java) | Medium     |
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                     | [Java](src/main/java/SearchInsertPosition/Solution.java)                       | Easy       |
+| 338    | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                       | [Java](src/main/java/CountingBits/Solution.java)                               | Easy       |
 
