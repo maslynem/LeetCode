@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 11/17 = 65%
+Solve myself 12/18 = 67%
 
 | #      | Title                                                                                                                               | Solution                                                                       | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------|
@@ -23,4 +23,6 @@ Solve myself 11/17 = 65%
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                     | [Java](src/main/java/SearchInsertPosition/Solution.java)                       | Easy       |
 | 338    | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                       | [Java](src/main/java/CountingBits/Solution.java)                               | Easy       |
 | 33     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                     | [Java](src/main/java/SearchInRotatedSortedArray/Solution.java)                 | Medium     |
+| 74     | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                             | [Java](src/main/java/Search2DMatrix/Solution.java)                             | Medium     |
+| 15     | [3Sum](https://leetcode.com/problems/3sum/)                                                                                         | [Java](src/main/java/ThreeSum/Solution.java)                                   | Medium     |
 
