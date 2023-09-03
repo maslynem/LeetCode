@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 12/20 = 60%
+Solve myself 13/21 = 62%
 
 | #      | Title                                                                                                                               | Solution                                                                       | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------|
@@ -25,5 +25,6 @@ Solve myself 12/20 = 60%
 | 33     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                     | [Java](src/main/java/SearchInRotatedSortedArray/Solution.java)                 | Medium     |
 | 74     | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                             | [Java](src/main/java/Search2DMatrix/Solution.java)                             | Medium     |
 | * 15   | [3Sum](https://leetcode.com/problems/3sum/)                                                                                         | [Java](src/main/java/ThreeSum/Solution.java)                                   | Medium     |
-| * 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/?envType=daily-question&envId=2023-09-02) | [Java](src/main/java/ExtraCharactersInAString/Solution.java)                   | Medium     |
+| * 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string)                                          | [Java](src/main/java/ExtraCharactersInAString/Solution.java)                   | Medium     |
+| 62     | [Unique Paths](https://leetcode.com/problems/unique-paths)                                                                          | [Java](src/main/java/UniquePaths/Solution.java)                                | Medium     |
 
