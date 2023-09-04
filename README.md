@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 15/23 = 65%
+Solve myself 17/25 = 68%
 
 | #      | Title                                                                                                                               | Solution                                                                       | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------|
@@ -29,4 +29,6 @@ Solve myself 15/23 = 65%
 | 62     | [Unique Paths](https://leetcode.com/problems/unique-paths)                                                                          | [Java](src/main/java/UniquePaths/Solution.java)                                | Medium     |
 | 141    | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                               | [Java](src/main/java/LinkedListCycle/Solution.java)                            | Easy       |
 | 139    | [Word Break](https://leetcode.com/problems/word-break/)                                                                             | [Java](src/main/java/WordBreak/Solution.java)                                  | Medium     |
+| 215    | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                   | [Java](src/main/java/KthLargestElementInAnArray/Solution.java)                 | Medium     |
+| 1796   | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)                                 | [Java](src/main/java/SecondLargestDigitInAString/Solution.java)                | Easy       |
 
