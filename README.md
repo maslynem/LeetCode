@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 20/28 = 71%
+Solve myself 19/29 = 66%
 
 | #      | Title                                                                                                                               | Solution                                                                       | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------|
@@ -22,7 +22,7 @@ Solve myself 20/28 = 71%
 | 3      | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)     | [Java](src/main/java/LongestSubstringWithoutRepeatingCharacters/Solution.java) | Medium     |
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                     | [Java](src/main/java/SearchInsertPosition/Solution.java)                       | Easy       |
 | 338    | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                       | [Java](src/main/java/CountingBits/Solution.java)                               | Easy       |
-| 33     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                     | [Java](src/main/java/SearchInRotatedSortedArray/Solution.java)                 | Medium     |
+| * 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                     | [Java](src/main/java/SearchInRotatedSortedArray/Solution.java)                 | Medium     |
 | 74     | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                             | [Java](src/main/java/Search2DMatrix/Solution.java)                             | Medium     |
 | * 15   | [3Sum](https://leetcode.com/problems/3sum/)                                                                                         | [Java](src/main/java/ThreeSum/Solution.java)                                   | Medium     |
 | * 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string)                                          | [Java](src/main/java/ExtraCharactersInAString/Solution.java)                   | Medium     |
@@ -34,4 +34,5 @@ Solve myself 20/28 = 71%
 | 138    | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                                       | [Java](src/main/java/CopyListWithRandomPointer/Solution.java)                  | Medium     |
 | 725    | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)                                             | [Java](src/main/java/SplitLinkedListInParts/Solution.java)                     | Medium     |
 | 605    | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                               | [Java](src/main/java/CanPlaceFlowers/Solution.java)                            | Easy       |
+| * 81   | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)                               | [Java](src/main/java/SearchInRotatedSortedArrayII/Solution.java)               | Medium     |
 

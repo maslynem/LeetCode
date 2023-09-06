@@ -11,28 +11,38 @@ package SearchInRotatedSortedArray;
  */
 class Solution {
     public int search(int[] nums, int target) {
-        if (nums.length == 1) {
-            return nums[0] == target ? 0 : -1;
-        }
-        int k = 0;
-        int first = 0;
-        int last = nums.length - 1;
-        while (nums[first] > nums[last]) {
-            k++;
-            last--;
-        }
-        int[] restoredNums = new int[nums.length];
-        for (int i = 0; i < nums.length; i++) {
-            restoredNums[(i + k) % nums.length] = nums[i];
-        }
+        int n = nums.length;
         int left = 0;
-        int right = restoredNums.length - 1;
+        int right = n - 1;
+
+        // Find the index of the pivot element (the smallest element)
         while (left <= right) {
-            int mid = (left + right) >>> 1;
-            if (restoredNums[mid] == target) {
-                return (restoredNums.length + (mid - k)) % restoredNums.length;
+            int mid = (left + right) / 2;
+            if (nums[mid] > nums[n - 1]) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
             }
-            if (restoredNums[mid] > target) {
+        }
+
+        // Binary search over elements on the pivot element's left
+        int answer = binarySearch(nums, 0, left - 1, target);
+        if (answer != -1) {
+            return answer;
+        }
+
+        // Binary search over elements on the pivot element's right
+        return binarySearch(nums, left, n - 1, target);
+    }
+
+    private int binarySearch(int[] nums, int leftBoundary, int rightBoundary, int target) {
+        int left = leftBoundary;
+        int right = rightBoundary;
+        while (left <= right) {
+            int mid = (left + right) / 2;
+            if (nums[mid] == target) {
+                return mid;
+            } else if (nums[mid] > target) {
                 right = mid - 1;
             } else {
                 left = mid + 1;
