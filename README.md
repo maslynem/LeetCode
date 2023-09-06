@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 17/25 = 68%
+Solve myself 20/28 = 71%
 
 | #      | Title                                                                                                                               | Solution                                                                       | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------|
@@ -31,4 +31,7 @@ Solve myself 17/25 = 68%
 | 139    | [Word Break](https://leetcode.com/problems/word-break/)                                                                             | [Java](src/main/java/WordBreak/Solution.java)                                  | Medium     |
 | 215    | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                   | [Java](src/main/java/KthLargestElementInAnArray/Solution.java)                 | Medium     |
 | 1796   | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)                                 | [Java](src/main/java/SecondLargestDigitInAString/Solution.java)                | Easy       |
+| 138    | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                                       | [Java](src/main/java/CopyListWithRandomPointer/Solution.java)                  | Medium     |
+| 725    | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)                                             | [Java](src/main/java/SplitLinkedListInParts/Solution.java)                     | Medium     |
+| 605    | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                               | [Java](src/main/java/CanPlaceFlowers/Solution.java)                            | Easy       |
 
