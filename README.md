@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 19/29 = 66%
+Solve myself 20/30 = 67%
 
 | #      | Title                                                                                                                               | Solution                                                                       | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------|
@@ -35,4 +35,5 @@ Solve myself 19/29 = 66%
 | 725    | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)                                             | [Java](src/main/java/SplitLinkedListInParts/Solution.java)                     | Medium     |
 | 605    | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                               | [Java](src/main/java/CanPlaceFlowers/Solution.java)                            | Easy       |
 | * 81   | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)                               | [Java](src/main/java/SearchInRotatedSortedArrayII/Solution.java)               | Medium     |
+| 92     | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                                                     | [Java](src/main/java/ReverseLinkedListII/Solution.java)                        | Medium     |
 
