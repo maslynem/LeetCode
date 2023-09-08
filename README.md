@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 20/30 = 67%
+Solve myself 22/32 = 69%
 
 | #      | Title                                                                                                                               | Solution                                                                       | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------|
@@ -36,4 +36,6 @@ Solve myself 20/30 = 67%
 | 605    | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                               | [Java](src/main/java/CanPlaceFlowers/Solution.java)                            | Easy       |
 | * 81   | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)                               | [Java](src/main/java/SearchInRotatedSortedArrayII/Solution.java)               | Medium     |
 | 92     | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                                                     | [Java](src/main/java/ReverseLinkedListII/Solution.java)                        | Medium     |
+| 118    | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                                                                 | [Java](src/main/java/PascalsTriangle/Solution.java)                            | Easy       |
+| 1833   | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)                                         | [Java](src/main/java/MaximumIceCreamBars/Solution.java)                        | Medium     |
 
