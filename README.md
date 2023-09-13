@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 29/40 = 73%
+Solve myself 31/43 = 72%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -46,4 +46,7 @@ Solve myself 29/40 = 73%
 | 1647   | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [Java](src/main/java/MinimumDeletionsToMakeCharacterFrequenciesUnique/Solution.java) | Medium     |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                             | [Java](src/main/java/MajorityElement/Solution.java)                                  | Easy       |
 | 189    | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                     | [Java](src/main/java/RotateArray/Solution.java)                                      | Medium     |
+| 135    | [Candy](https://leetcode.com/problems/candy)                                                                                                    | [Java](src/main/java/Candy/Solution.java)                                            | Hard       |
+| *121   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                               | [Java](src/main/java/BestTimeToBuyAndSellStock/Solution.java)                        | Easy       |
+| 122    | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                         | [Java](src/main/java/BestTimeToBuyAndSellStockII/Solution.java)                      | Medium     |
 
