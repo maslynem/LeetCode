@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 31/43 = 72%
+Solve myself 33/46 = 72%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -38,7 +38,7 @@ Solve myself 31/43 = 72%
 | 92     | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                                                                 | [Java](src/main/java/ReverseLinkedListII/Solution.java)                              | Medium     |
 | 118    | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                                                                             | [Java](src/main/java/PascalsTriangle/Solution.java)                                  | Easy       |
 | 1833   | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)                                                     | [Java](src/main/java/MaximumIceCreamBars/Solution.java)                              | Medium     |
-| *1359  | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)                       | [Java](src/main/java/CountAllValidPickupAndDeliveryOptions/Solution.java)            | Hard       |
+| * 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)                       | [Java](src/main/java/CountAllValidPickupAndDeliveryOptions/Solution.java)            | Hard       |
 | 1282   | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)     | [Java](src/main/java/GroupThePeopleGivenTheGroupSizeTheyBelongTo/Solution.java)      | Medium     |
 | 88     | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                         | [Java](src/main/java/MergeSortedArray/Solution.java)                                 | Easy       |
 | 26     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                       | [Java](src/main/java/RemoveDuplicatesFromSortedArray/Solution.java)                  | Easy       |
@@ -47,6 +47,9 @@ Solve myself 31/43 = 72%
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                             | [Java](src/main/java/MajorityElement/Solution.java)                                  | Easy       |
 | 189    | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                     | [Java](src/main/java/RotateArray/Solution.java)                                      | Medium     |
 | 135    | [Candy](https://leetcode.com/problems/candy)                                                                                                    | [Java](src/main/java/Candy/Solution.java)                                            | Hard       |
-| *121   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                               | [Java](src/main/java/BestTimeToBuyAndSellStock/Solution.java)                        | Easy       |
+| * 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                               | [Java](src/main/java/BestTimeToBuyAndSellStock/Solution.java)                        | Easy       |
 | 122    | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                         | [Java](src/main/java/BestTimeToBuyAndSellStockII/Solution.java)                      | Medium     |
+| * 332  | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                                                                   | [Java](src/main/java/ReconstructItinerary/Solution.java)                             | Hard       |
+| 55     | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                           | [Java](src/main/java/JumpGame/Solution.java)                                         | Medium     |
+| 45     | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                     | [Java](src/main/java/JumpGameII/Solution.java)                                       | Medium     |
 
