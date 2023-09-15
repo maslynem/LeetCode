@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 33/46 = 72%
+Solve myself 35/49 = 71%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -52,4 +52,7 @@ Solve myself 33/46 = 72%
 | * 332  | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                                                                   | [Java](src/main/java/ReconstructItinerary/Solution.java)                             | Hard       |
 | 55     | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                           | [Java](src/main/java/JumpGame/Solution.java)                                         | Medium     |
 | 45     | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                     | [Java](src/main/java/JumpGameII/Solution.java)                                       | Medium     |
+| * 45   | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)                                                 | [Java](src/main/java/MinCostToConnectAllPoints/Solution.java)                        | Medium     |
+| 274    | [H-Index](https://leetcode.com/problems/h-index/)                                                                                               | [Java](src/main/java/HIndex/Solution.java)                                           | Medium     |
+| 380    | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                       | [Java](src/main/java/InsertDeleteGetRandom/RandomizedSet.java)                       | Medium     |
 
