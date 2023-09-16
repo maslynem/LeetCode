@@ -55,4 +55,5 @@ Solve myself 35/49 = 71%
 | * 45   | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)                                                 | [Java](src/main/java/MinCostToConnectAllPoints/Solution.java)                        | Medium     |
 | 274    | [H-Index](https://leetcode.com/problems/h-index/)                                                                                               | [Java](src/main/java/HIndex/Solution.java)                                           | Medium     |
 | 380    | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                       | [Java](src/main/java/InsertDeleteGetRandom/RandomizedSet.java)                       | Medium     |
+| 1631   | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)                                                             | [Java](src/main/java/PathWithMinimumEffort/Solution.java)                            | Medium     |
 
