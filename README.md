@@ -56,4 +56,6 @@ Solve myself 35/49 = 71%
 | 274    | [H-Index](https://leetcode.com/problems/h-index/)                                                                                               | [Java](src/main/java/HIndex/Solution.java)                                           | Medium     |
 | 380    | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                       | [Java](src/main/java/InsertDeleteGetRandom/RandomizedSet.java)                       | Medium     |
 | 1631   | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)                                                             | [Java](src/main/java/PathWithMinimumEffort/Solution.java)                            | Medium     |
+| 14     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                   | [Java](src/main/java/LongestCommonPrefix/Solution.java)                              | Easy       |
+| 28     | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)         | [Java](src/main/java/FindIndexOfFirstOccurrenceInString/Solution.java)               | Easy       |
 
