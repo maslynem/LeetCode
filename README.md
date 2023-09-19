@@ -59,4 +59,5 @@ Solve myself 35/49 = 71%
 | 14     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                   | [Java](src/main/java/LongestCommonPrefix/Solution.java)                              | Easy       |
 | 28     | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)         | [Java](src/main/java/FindIndexOfFirstOccurrenceInString/Solution.java)               | Easy       |
 | 1337   | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)                                                 | [Java](src/main/java/TheKWeakestRowsInMatrix/Solution.java)                          | Easy       |
+| 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                                           | [Java](src/main/java/FindTheDuplicateNumber/Solution.java)                           | Medium     |
 
