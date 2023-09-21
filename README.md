@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 35/49 = 71%
+Solve myself 42/57 = 74%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -60,4 +60,7 @@ Solve myself 35/49 = 71%
 | 28     | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)         | [Java](src/main/java/FindIndexOfFirstOccurrenceInString/Solution.java)               | Easy       |
 | 1337   | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)                                                 | [Java](src/main/java/TheKWeakestRowsInMatrix/Solution.java)                          | Easy       |
 | 287    | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                                           | [Java](src/main/java/FindTheDuplicateNumber/Solution.java)                           | Medium     |
+| * 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)                                 | [Java](src/main/java/MinimumOperationsToReduceXToZero/Solution.java)                 | Medium     |
+| 238    | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                     | [Java](src/main/java/ProductOfArrayExceptSelf/Solution.java)                         | Medium     |
+| 4      | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                       | [Java](src/main/java/MedianOfTwoSortedArrays/Solution.java)                          | Hard       |
 
