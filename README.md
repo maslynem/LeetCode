@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 42/57 = 74%
+Solve myself 43/58 = 74%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -63,4 +63,5 @@ Solve myself 42/57 = 74%
 | * 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)                                 | [Java](src/main/java/MinimumOperationsToReduceXToZero/Solution.java)                 | Medium     |
 | 238    | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                     | [Java](src/main/java/ProductOfArrayExceptSelf/Solution.java)                         | Medium     |
 | 4      | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                       | [Java](src/main/java/MedianOfTwoSortedArrays/Solution.java)                          | Hard       |
+| 392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                 | [Java](src/main/java/IsSubsequence/Solution.java)                                    | Easy       |
 
