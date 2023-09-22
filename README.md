@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 43/58 = 74%
+Solve myself 44/59 = 75%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -64,4 +64,5 @@ Solve myself 43/58 = 74%
 | 238    | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                     | [Java](src/main/java/ProductOfArrayExceptSelf/Solution.java)                         | Medium     |
 | 4      | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                       | [Java](src/main/java/MedianOfTwoSortedArrays/Solution.java)                          | Hard       |
 | 392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                 | [Java](src/main/java/IsSubsequence/Solution.java)                                    | Easy       |
+| 58     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                       | [Java](src/main/java/LengthOfLastWord/Solution.java)                                 | Easy       |
 
