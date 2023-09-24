@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 44/59 = 75%
+Solve myself 46/62 = 74%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -65,4 +65,7 @@ Solve myself 44/59 = 75%
 | 4      | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                       | [Java](src/main/java/MedianOfTwoSortedArrays/Solution.java)                          | Hard       |
 | 392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                 | [Java](src/main/java/IsSubsequence/Solution.java)                                    | Easy       |
 | 58     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                       | [Java](src/main/java/LengthOfLastWord/Solution.java)                                 | Easy       |
+| 1048   | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                                                     | [Java](src/main/java/LongestStringChain/Solution.java)                               | Medium     |
+| * 799  | [Champagne Tower](https://leetcode.com/problems/champagne-tower/)                                                                               | [Java](src/main/java/ChampagneTower/Solution.java)                                   | Medium     |
+| 111    | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                                     | [Java](src/main/java/MinimumDepthOfBinaryTree/Solution.java)                         | Easy       |
 
