@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 46/62 = 74%
+Solve myself 47/63 = 75%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -68,4 +68,5 @@ Solve myself 46/62 = 74%
 | 1048   | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                                                     | [Java](src/main/java/LongestStringChain/Solution.java)                               | Medium     |
 | * 799  | [Champagne Tower](https://leetcode.com/problems/champagne-tower/)                                                                               | [Java](src/main/java/ChampagneTower/Solution.java)                                   | Medium     |
 | 111    | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                                     | [Java](src/main/java/MinimumDepthOfBinaryTree/Solution.java)                         | Easy       |
+| 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/)                                                           | [Java](src/main/java/FindTheDifference/Solution.java)                                | Easy       |
 
