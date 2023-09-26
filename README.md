@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 47/63 = 75%
+Solve myself 47/64 = 73%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -69,4 +69,5 @@ Solve myself 47/63 = 75%
 | * 799  | [Champagne Tower](https://leetcode.com/problems/champagne-tower/)                                                                               | [Java](src/main/java/ChampagneTower/Solution.java)                                   | Medium     |
 | 111    | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                                     | [Java](src/main/java/MinimumDepthOfBinaryTree/Solution.java)                         | Easy       |
 | 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/)                                                           | [Java](src/main/java/FindTheDifference/Solution.java)                                | Easy       |
+| * 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)                                                             | [Java](src/main/java/RemoveDuplicateLetters/Solution.java)                           | Medium     |
 
