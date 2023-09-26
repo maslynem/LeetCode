@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 47/64 = 73%
+Solve myself 52/69 = 75%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -70,4 +70,9 @@ Solve myself 47/64 = 73%
 | 111    | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                                     | [Java](src/main/java/MinimumDepthOfBinaryTree/Solution.java)                         | Easy       |
 | 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/)                                                           | [Java](src/main/java/FindTheDifference/Solution.java)                                | Easy       |
 | * 316  | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)                                                             | [Java](src/main/java/RemoveDuplicateLetters/Solution.java)                           | Medium     |
+| 69     | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                 | [Java](src/main/java/Sqrtx/Solution.java)                                            | Easy       |
+| 94     | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                                   | [Java](src/main/java/BinaryTreeInorderTraversal/Solution.java)                       | Easy       |
+| 160    | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                             | [Java](src/main/java/IntersectionOfTwoLinkedLists/Solution.java)                     | Easy       |
+| 171    | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)                                                           | [Java](src/main/java/ExcelSheetColumnNumber/Solution.java)                           | Easy       |
+| 202    | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                                     | [Java](src/main/java/HappyNumber/Solution.java)                                      | Easy       |
 
