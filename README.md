@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 52/69 = 75%
+Solve myself 54/72 = 75%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -75,4 +75,7 @@ Solve myself 52/69 = 75%
 | 160    | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                             | [Java](src/main/java/IntersectionOfTwoLinkedLists/Solution.java)                     | Easy       |
 | 171    | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)                                                           | [Java](src/main/java/ExcelSheetColumnNumber/Solution.java)                           | Easy       |
 | 202    | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                                     | [Java](src/main/java/HappyNumber/Solution.java)                                      | Easy       |
+| * 880  | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)                                                               | [Java](src/main/java/DecodedStringAtIndex/Solution.java)                             | Medium     |
+| 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                         | [Java](src/main/java/AddBinary/Solution.java)                                        | Easy       |
+| 83     | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                         | [Java](src/main/java/RemoveDuplicatesFromSortedList/Solution.java)                   | Easy       |
 
