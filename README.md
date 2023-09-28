@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 56/74 = 76%
+Solve myself 58/76 = 76%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -80,4 +80,6 @@ Solve myself 56/74 = 76%
 | 83     | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                         | [Java](src/main/java/RemoveDuplicatesFromSortedList/Solution.java)                   | Easy       |
 | 100    | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                           | [Java](src/main/java/SameTree/Solution.java)                                         | Easy       |
 | 110    | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                     | [Java](src/main/java/BalancedBinaryTree/Solution.java)                               | Easy       |
+| 905    | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                                                                     | [Java](src/main/java/SortArrayByParity/Solution.java)                                | Easy       |
+| 112    | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                             | [Java](src/main/java/PathSum/Solution.java)                                          | Easy       |
 
