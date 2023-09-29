@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 58/76 = 76%
+Solve myself 60/78 = 77%
 
 | #      | Title                                                                                                                                           | Solution                                                                             | Difficulty |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -82,4 +82,6 @@ Solve myself 58/76 = 76%
 | 110    | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                     | [Java](src/main/java/BalancedBinaryTree/Solution.java)                               | Easy       |
 | 905    | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                                                                     | [Java](src/main/java/SortArrayByParity/Solution.java)                                | Easy       |
 | 112    | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                             | [Java](src/main/java/PathSum/Solution.java)                                          | Easy       |
+| 896    | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                                               | [Java](src/main/java/MonotonicArray/Solution.java)                                   | Easy       |
+| 119    | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                      | [Java](src/main/java/PascalsTriangleII/Solution.java)                                | Easy       |
 
