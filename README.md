@@ -84,4 +84,5 @@ Solve myself 60/78 = 77%
 | 112    | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                             | [Java](src/main/java/PathSum/Solution.java)                                          | Easy       |
 | 896    | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                                               | [Java](src/main/java/MonotonicArray/Solution.java)                                   | Easy       |
 | 119    | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                      | [Java](src/main/java/PascalsTriangleII/Solution.java)                                | Easy       |
+| * 456  | [Pattern](https://leetcode.com/problems/132-pattern/)                                                                                           | [Java](src/main/java/Pattern/Solution.java)                                          | Medium     |
 
