@@ -88,4 +88,5 @@ Solve myself 63/82 = 77%
 | 557    | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)                                                            | [Java](src/main/java/ReverseWordsInStringIII/Solution.java)                          | Easy       |
 | 2038   | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [Java](src/main/java/RemoveColoredPieces/Solution.java)                              | Medium     |
 | 144    | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                                                         | [Java](src/main/java/BinaryTreePreorderTraversal/Solution.java)                      | Easy       |
+| 1512   | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                             | [Java](src/main/java/NumberOfGoodPairs/Solution.java)                                | Easy       |
 
