@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 64/83 = 77%
+Solve myself 65/84 = 77%
 
 | #      | Title                                                                                                                                                   | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -89,4 +89,5 @@ Solve myself 64/83 = 77%
 | 2038   | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [Java](src/main/java/RemoveColoredPieces/Solution.java)                              | Medium     |
 | 144    | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                                                         | [Java](src/main/java/BinaryTreePreorderTraversal/Solution.java)                      | Easy       |
 | 1512   | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                             | [Java](src/main/java/NumberOfGoodPairs/Solution.java)                                | Easy       |
+| 145    | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                                                       | [Java](src/main/java/BinaryTreePostorderTraversal/Solution.java)                     | Easy       |
 
