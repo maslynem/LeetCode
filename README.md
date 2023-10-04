@@ -90,4 +90,5 @@ Solve myself 65/84 = 77%
 | 144    | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                                                         | [Java](src/main/java/BinaryTreePreorderTraversal/Solution.java)                      | Easy       |
 | 1512   | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                             | [Java](src/main/java/NumberOfGoodPairs/Solution.java)                                | Easy       |
 | 145    | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                                                       | [Java](src/main/java/BinaryTreePostorderTraversal/Solution.java)                     | Easy       |
+| 706    | [Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                                                         | [Java](src/main/java/DesignHashMap/MyHashMap.java)                                   | Easy       |
 
