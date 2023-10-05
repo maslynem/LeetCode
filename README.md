@@ -91,4 +91,5 @@ Solve myself 65/84 = 77%
 | 1512   | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                             | [Java](src/main/java/NumberOfGoodPairs/Solution.java)                                | Easy       |
 | 145    | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                                                       | [Java](src/main/java/BinaryTreePostorderTraversal/Solution.java)                     | Easy       |
 | 706    | [Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                                                         | [Java](src/main/java/DesignHashMap/MyHashMap.java)                                   | Easy       |
+| 229    | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                                               | [Java](src/main/java/MajorityElementII/Solution.java)                                | Medium     |
 
