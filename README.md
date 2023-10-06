@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 65/84 = 77%
+Solve myself 69/88 = 78%
 
 | #      | Title                                                                                                                                                   | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -92,4 +92,6 @@ Solve myself 65/84 = 77%
 | 145    | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                                                       | [Java](src/main/java/BinaryTreePostorderTraversal/Solution.java)                     | Easy       |
 | 706    | [Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                                                         | [Java](src/main/java/DesignHashMap/MyHashMap.java)                                   | Easy       |
 | 229    | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                                               | [Java](src/main/java/MajorityElementII/Solution.java)                                | Medium     |
+| 343    | [Integer Break](https://leetcode.com/problems/integer-break)                                                                                            | [Java](src/main/java/IntegerBreak/Solution.java)                                     | Medium     |
+| 203    | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                                               | [Java](src/main/java/RemoveLinkedListElements/Solution.java)                         | Easy       |
 
