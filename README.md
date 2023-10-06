@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 69/88 = 78%
+Solve myself 70/89 = 79%
 
 | #      | Title                                                                                                                                                   | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -94,4 +94,5 @@ Solve myself 69/88 = 78%
 | 229    | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                                               | [Java](src/main/java/MajorityElementII/Solution.java)                                | Medium     |
 | 343    | [Integer Break](https://leetcode.com/problems/integer-break)                                                                                            | [Java](src/main/java/IntegerBreak/Solution.java)                                     | Medium     |
 | 203    | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                                               | [Java](src/main/java/RemoveLinkedListElements/Solution.java)                         | Easy       |
+| 205    | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                                                 | [Java](src/main/java/IsomorphicStrings/Solution.java)                                | Easy       |
 
