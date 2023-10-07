@@ -12,14 +12,14 @@ class SolutionTest {
 
     static Stream<Arguments> argumentsStream() {
         return Stream.of(
-            Arguments.of("abc", "ahbgdc", true),
-            Arguments.of("axc", "ahbgdc", false)
+                Arguments.of("abc", "ahbgdc", true),
+                Arguments.of("axc", "ahbgdc", false)
         );
     }
 
     @ParameterizedTest
     @MethodSource("argumentsStream")
     void test(String s, String t, boolean expected) {
-        Assertions.assertEquals(expected, solution.isSubsequence(s,t));
+        Assertions.assertEquals(expected, solution.isSubsequence(s, t));
     }
 }

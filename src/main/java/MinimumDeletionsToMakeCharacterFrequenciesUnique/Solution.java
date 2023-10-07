@@ -11,10 +11,10 @@ class Solution {
     public int minDeletions(String s) {
         int[] frequencies = new int[27];
         for (char c : s.toCharArray()) {
-            frequencies[c-'a']++;
+            frequencies[c - 'a']++;
         }
         Arrays.sort(frequencies);
-        boolean[] appears = new boolean[s.length()+1];
+        boolean[] appears = new boolean[s.length() + 1];
         int result = 0;
         for (int j = 26; j < frequencies.length && frequencies[j] != 0; j--) {
             int i = frequencies[j];

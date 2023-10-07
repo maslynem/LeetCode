@@ -2,7 +2,8 @@ package BalancedBinaryTree;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class SolutionTest {
     private static final Solution solution = new Solution();
@@ -13,6 +14,7 @@ class SolutionTest {
         assertTrue(solution.isBalanced(root));
 
     }
+
     @Test
     void test2() {
         TreeNode root = new TreeNode(1, null, new TreeNode(2));
@@ -20,10 +22,12 @@ class SolutionTest {
         root.left.left = new TreeNode(3, new TreeNode(4), new TreeNode(4));
         assertFalse(solution.isBalanced(root));
     }
+
     @Test
     void test3() {
         assertTrue(solution.isBalanced(null));
     }
+
     @Test
     void test4() {
         TreeNode root = new TreeNode(1, new TreeNode(2), new TreeNode(2));

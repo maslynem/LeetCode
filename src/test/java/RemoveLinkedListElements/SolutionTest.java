@@ -24,15 +24,15 @@ class SolutionTest {
 
     static Stream<Arguments> argumentsStream() {
         return Stream.of(
-                Arguments.of(new int[]{7,7,7,7}, new int[]{}, 7),
-                Arguments.of(new int[]{1,2,6,3,4,5,6}, new int[]{1,2,3,4,5}, 6),
+                Arguments.of(new int[]{7, 7, 7, 7}, new int[]{}, 7),
+                Arguments.of(new int[]{1, 2, 6, 3, 4, 5, 6}, new int[]{1, 2, 3, 4, 5}, 6),
                 Arguments.of(new int[]{}, new int[]{}, 1)
         );
     }
 
     @ParameterizedTest
     @MethodSource("argumentsStream")
-     void removeNodesWithVal6(int[] list, int[] expected, int val) {
+    void removeNodesWithVal6(int[] list, int[] expected, int val) {
         ListNode head = createList(list);
         ListNode expectedList = createList(expected);
         ListNode newList = solution.removeElements(head, val);

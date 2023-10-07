@@ -6,7 +6,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.stream.Stream;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SolutionTest {
 
@@ -14,9 +14,9 @@ class SolutionTest {
 
     private static Stream<Arguments> argumentsStream() {
         return Stream.of(
-                Arguments.of(new int[]{1,2,2,3}, true),
-                Arguments.of(new int[]{1,3,2}, false),
-                Arguments.of(new int[]{6,5,4,4}, true)
+                Arguments.of(new int[]{1, 2, 2, 3}, true),
+                Arguments.of(new int[]{1, 3, 2}, false),
+                Arguments.of(new int[]{6, 5, 4, 4}, true)
         );
     }
 

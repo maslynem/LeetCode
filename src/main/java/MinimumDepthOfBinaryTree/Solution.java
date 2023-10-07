@@ -46,7 +46,7 @@ class Solution {
                 if (node.left != null) {
                     nodes.add(node.left);
                 }
-                if (node.right != null){
+                if (node.right != null) {
                     nodes.add(node.right);
                 }
             }

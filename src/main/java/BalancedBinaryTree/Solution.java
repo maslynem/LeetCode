@@ -1,10 +1,17 @@
 package BalancedBinaryTree;
+
 class TreeNode {
     int val;
     TreeNode left;
     TreeNode right;
-    TreeNode() {}
-    TreeNode(int val) { this.val = val; }
+
+    TreeNode() {
+    }
+
+    TreeNode(int val) {
+        this.val = val;
+    }
+
     TreeNode(int val, TreeNode left, TreeNode right) {
         this.val = val;
         this.left = left;
@@ -28,6 +35,7 @@ public class Solution {
         return false;
 
     }
+
     private int getMaxDepth(TreeNode node, int k) {
         if (node == null) return k;
         return Math.max(getMaxDepth(node.left, k + 1), getMaxDepth(node.right, k + 1));

@@ -12,11 +12,11 @@ class Solution {
         for (int i = 0; i < nums.length - 1; i++) {
             if (dp[i]) {
                 int num = nums[i];
-                for (int j = i+1; j <= i+num && j < nums.length; j++) {
+                for (int j = i + 1; j <= i + num && j < nums.length; j++) {
                     dp[j] = true;
                 }
             }
         }
-        return dp[nums.length-1];
+        return dp[nums.length - 1];
     }
 }

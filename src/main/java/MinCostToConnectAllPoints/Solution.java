@@ -43,8 +43,8 @@ class Solution {
                     for (int k = 0; k < countOfVertices; k++) {
                         distance = graph[j][k];
                         if (!addedToTree[k] && distance != 0 && minDistance > distance) {
-                                minDistance = distance;
-                                nextVertex = k;
+                            minDistance = distance;
+                            nextVertex = k;
 
                         }
                     }

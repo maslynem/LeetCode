@@ -17,7 +17,7 @@ class Solution {
             List<Integer> currentRow = result.get(i);
             List<Integer> prevRow = result.get(i - 1);
             for (int j = 0; j < i + 1; j++) {
-                int first = j - 1 >= 0 ? prevRow.get(j-1) : 0;
+                int first = j - 1 >= 0 ? prevRow.get(j - 1) : 0;
                 int second = j + 1 != i + 1 ? prevRow.get(j) : 0;
                 currentRow.add(first + second);
             }

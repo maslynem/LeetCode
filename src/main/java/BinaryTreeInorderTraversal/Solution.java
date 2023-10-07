@@ -38,6 +38,7 @@ public class Solution {
         }
         return result;
     }
+
     private void addLeftNodes(Deque<TreeNode> stack, TreeNode node) {
         while (node != null) {
             stack.push(node);

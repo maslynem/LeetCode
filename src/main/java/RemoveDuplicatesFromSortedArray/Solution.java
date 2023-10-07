@@ -11,6 +11,6 @@ class Solution {
                 nums[++k] = nums[i];
             }
         }
-        return k+1;
+        return k + 1;
     }
 }

@@ -23,7 +23,7 @@ class SolutionTest {
     @ParameterizedTest
     @MethodSource("argumentsStream")
     void test(String s, int k, String expected) {
-        Assertions.assertEquals(expected, solution.decodeAtIndex(s,k));
+        Assertions.assertEquals(expected, solution.decodeAtIndex(s, k));
     }
 
 }

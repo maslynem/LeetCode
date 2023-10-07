@@ -10,7 +10,7 @@ class Solution {
         if (strs.length == 0) {
             return "";
         }
-        int index = strs[0].length()-1;
+        int index = strs[0].length() - 1;
         for (int j = 1; j < strs.length; j++) {
             String str = strs[j];
             if (str.length() - 1 != index) {
@@ -22,7 +22,7 @@ class Solution {
                 }
             }
         }
-        return index >= 0 ? strs[0].substring(0, index+1) : "";
+        return index >= 0 ? strs[0].substring(0, index + 1) : "";
     }
 
     /**

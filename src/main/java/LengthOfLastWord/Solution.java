@@ -7,14 +7,14 @@ package LengthOfLastWord;
  */
 class Solution {
     public int lengthOfLastWord(String s) {
-        int i = s.length()-1;
+        int i = s.length() - 1;
         int counter = 0;
-        for (; i >=0 ; i--) {
-            if (s.charAt(i) != ' '){
+        for (; i >= 0; i--) {
+            if (s.charAt(i) != ' ') {
                 break;
             }
         }
-        for (; i >=0 ; i--) {
+        for (; i >= 0; i--) {
             if (s.charAt(i) == ' ') {
                 return counter;
             }

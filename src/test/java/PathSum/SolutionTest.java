@@ -2,7 +2,8 @@ package PathSum;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class SolutionTest {
 
@@ -16,11 +17,13 @@ class SolutionTest {
         root.right.right = new TreeNode(4, null, new TreeNode(1));
         assertTrue(solution.hasPathSum(root, 22));
     }
+
     @Test
     void test2() {
         TreeNode root = new TreeNode(1, new TreeNode(2), new TreeNode(3));
         assertFalse(solution.hasPathSum(root, 5));
     }
+
     @Test
     void test3() {
         assertFalse(solution.hasPathSum(null, 0));

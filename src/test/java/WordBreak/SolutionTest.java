@@ -8,16 +8,16 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SolutionTest {
     private static final Solution solution = new Solution();
 
     static Stream<Arguments> argumentsProvider() {
         return Stream.of(
-                Arguments.of("leetcode", Arrays.asList("leet","code"), true),
-                Arguments.of("applepenapple", Arrays.asList("apple","pen"), true),
-                Arguments.of("catsandog", Arrays.asList("cats","dog","sand","and","cat"), false)
+                Arguments.of("leetcode", Arrays.asList("leet", "code"), true),
+                Arguments.of("applepenapple", Arrays.asList("apple", "pen"), true),
+                Arguments.of("catsandog", Arrays.asList("cats", "dog", "sand", "and", "cat"), false)
         );
     }
 

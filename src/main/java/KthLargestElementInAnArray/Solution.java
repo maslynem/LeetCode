@@ -14,7 +14,7 @@ class Solution {
         for (int num : nums) {
             priorityQueue.add(num);
         }
-        for (int i = 0; i < k -1; i++) {
+        for (int i = 0; i < k - 1; i++) {
             priorityQueue.poll();
         }
         return priorityQueue.poll();

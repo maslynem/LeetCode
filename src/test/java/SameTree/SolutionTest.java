@@ -2,7 +2,8 @@ package SameTree;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class SolutionTest {
 
@@ -15,6 +16,7 @@ class SolutionTest {
         root.right = new TreeNode(3);
         assertTrue(solution.isSameTree(root, root));
     }
+
     @Test
     void test2() {
         TreeNode root1 = new TreeNode(1);

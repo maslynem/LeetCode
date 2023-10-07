@@ -96,6 +96,7 @@ class SolutionTest {
         }
         assertNull(head);
     }
+
     @Test
     void test3() {
         Node node1 = new Node(3);

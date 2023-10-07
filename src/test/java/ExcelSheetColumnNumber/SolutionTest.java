@@ -15,9 +15,10 @@ class SolutionTest {
                 Arguments.of("FXSHRXW", 2147483647),
                 Arguments.of("AB", 28),
                 Arguments.of("A", 1),
-            Arguments.of("ZY", 701)
+                Arguments.of("ZY", 701)
         );
     }
+
     @ParameterizedTest
     @MethodSource("argumentsStream")
     void test(String columnTitle, int expected) {

@@ -12,9 +12,9 @@ class SolutionTest {
 
     static Stream<Arguments> argumentsStream() {
         return Stream.of(
-            Arguments.of(new int[]{1,2,3,4}, false),
-            Arguments.of(new int[]{3,1,4,2}, true),
-            Arguments.of(new int[]{-1,3,2,0}, true)
+                Arguments.of(new int[]{1, 2, 3, 4}, false),
+                Arguments.of(new int[]{3, 1, 4, 2}, true),
+                Arguments.of(new int[]{-1, 3, 2, 0}, true)
         );
     }
 

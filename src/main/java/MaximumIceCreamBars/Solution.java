@@ -12,33 +12,33 @@ import java.util.Arrays;
  * Return the maximum number of ice cream bars the boy can buy with coins coins.
  */
 class Solution {
-        public int maxIceCream(int[] costs, int coins) {
-            if (costs.length == 0) return 0;
-            int max = Arrays.stream(costs).max().getAsInt();
-            int[] table = new int[max+1];
-            for (int i : costs) {
-                table[i]++;
+    public int maxIceCream(int[] costs, int coins) {
+        if (costs.length == 0) return 0;
+        int max = Arrays.stream(costs).max().getAsInt();
+        int[] table = new int[max + 1];
+        for (int i : costs) {
+            table[i]++;
+        }
+        int result = 0;
+        for (int i = 0; i < table.length; i++) {
+            if (i > coins) {
+                break;
             }
-            int result = 0;
-            for (int i = 0; i < table.length; i++) {
-                if (i > coins) {
-                    break;
-                }
-                if (table[i] != 0) {
-                    if (table[i] * i < coins) {
-                        result += table[i];
-                        coins -= table[i] * i;
-                    } else {
-                        while (coins >= i && table[i] != 0) {
-                            coins -= i;
-                            result++;
-                            table[i]--;
-                        }
+            if (table[i] != 0) {
+                if (table[i] * i < coins) {
+                    result += table[i];
+                    coins -= table[i] * i;
+                } else {
+                    while (coins >= i && table[i] != 0) {
+                        coins -= i;
+                        result++;
+                        table[i]--;
                     }
                 }
             }
-            return result;
         }
+        return result;
+    }
 
 //    public int maxIceCream(int[] costs, int coins) {
 //        PriorityQueue<Integer> priorityQueue = new PriorityQueue<>(costs.length);

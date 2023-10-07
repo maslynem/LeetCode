@@ -15,7 +15,7 @@ class SolutionTest {
             "3, 90"
     })
     void test(int n, int expected) {
-      assertEquals(expected, solution.countOrders(n));
+        assertEquals(expected, solution.countOrders(n));
     }
 
 }

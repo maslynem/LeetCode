@@ -28,7 +28,7 @@ class Solution {
 
         StringBuilder sb = new StringBuilder();
         while (!stack.isEmpty()) {
-            sb.append((char)(stack.pop() + 'a'));
+            sb.append((char) (stack.pop() + 'a'));
         }
         return sb.reverse().toString();
     }

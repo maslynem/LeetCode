@@ -8,7 +8,7 @@ class Solution {
         int result = 0;
         for (int i = columnTitle.length() - 1, j = 0; i >= 0; i--, j++) {
             int ch = columnTitle.charAt(i) - 'A' + 1;
-            result += ch * (int)Math.pow(26, j);
+            result += ch * (int) Math.pow(26, j);
         }
         return result;
     }

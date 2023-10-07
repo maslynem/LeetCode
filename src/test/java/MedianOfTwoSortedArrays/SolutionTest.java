@@ -13,9 +13,9 @@ class SolutionTest {
 
     static Stream<Arguments> argumentsStream() {
         return Stream.of(
-            Arguments.of(new int[]{1,3}, new int[]{2}, 2),
-            Arguments.of(new int[]{1,3}, new int[]{2,7}, 2.5),
-            Arguments.of(new int[]{1,2}, new int[]{3,4}, 2.5)
+                Arguments.of(new int[]{1, 3}, new int[]{2}, 2),
+                Arguments.of(new int[]{1, 3}, new int[]{2, 7}, 2.5),
+                Arguments.of(new int[]{1, 2}, new int[]{3, 4}, 2.5)
         );
     }
 

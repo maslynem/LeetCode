@@ -12,8 +12,8 @@ class SolutionTest {
 
     static Stream<Arguments> argumentsStream() {
         return Stream.of(
-            Arguments.of("Let's take LeetCode contest", "s'teL ekat edoCteeL tsetnoc"),
-            Arguments.of("God Ding", "doG gniD")
+                Arguments.of("Let's take LeetCode contest", "s'teL ekat edoCteeL tsetnoc"),
+                Arguments.of("God Ding", "doG gniD")
         );
     }
 

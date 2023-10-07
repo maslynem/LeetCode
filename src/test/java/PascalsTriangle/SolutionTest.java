@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SolutionTest {
     private static final Solution solution = new Solution();
@@ -16,10 +16,10 @@ class SolutionTest {
     void test1() {
         int numRows = 5;
         List<Integer> first = Collections.singletonList(1);
-        List<Integer> second = Arrays.asList(1,1);
-        List<Integer> third = Arrays.asList(1,2,1);
-        List<Integer> fourth = Arrays.asList(1,3,3,1);
-        List<Integer> fifth = Arrays.asList(1,4,6,4,1);
+        List<Integer> second = Arrays.asList(1, 1);
+        List<Integer> third = Arrays.asList(1, 2, 1);
+        List<Integer> fourth = Arrays.asList(1, 3, 3, 1);
+        List<Integer> fifth = Arrays.asList(1, 4, 6, 4, 1);
         List<List<Integer>> expected = new ArrayList<>(numRows);
         expected.add(first);
         expected.add(second);
@@ -34,6 +34,7 @@ class SolutionTest {
             assertEquals(expected.get(i), generate.get(i));
         }
     }
+
     @Test
     void test2() {
         int numRows = 1;

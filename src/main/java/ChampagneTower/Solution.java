@@ -17,8 +17,8 @@ class Solution {
             for (int c = 0; c <= r; ++c) {
                 double q = (dp[r][c] - 1.0) / 2.0;
                 if (q > 0) {
-                    dp[r+1][c] += q;
-                    dp[r+1][c+1] += q;
+                    dp[r + 1][c] += q;
+                    dp[r + 1][c + 1] += q;
                 }
             }
         }

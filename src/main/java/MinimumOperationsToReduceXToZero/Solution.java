@@ -25,7 +25,7 @@ class Solution {
             }
 
             if (sum == target) {
-                count = Math.min(count, nums.length - (right-left+1));
+                count = Math.min(count, nums.length - (right - left + 1));
             }
             right++;
         }

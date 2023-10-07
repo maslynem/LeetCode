@@ -17,8 +17,8 @@ class Solution {
         int alice = 0;
         int bob = 0;
         char[] charArray = colors.toCharArray();
-        for (int i = 1; i < charArray.length -1; i++) {
-            if (charArray[i-1] == charArray[i] && charArray[i] == charArray[i+1]) {
+        for (int i = 1; i < charArray.length - 1; i++) {
+            if (charArray[i - 1] == charArray[i] && charArray[i] == charArray[i + 1]) {
                 if (charArray[i] == 'A') {
                     alice++;
                 } else {

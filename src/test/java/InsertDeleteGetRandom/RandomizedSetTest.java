@@ -103,6 +103,7 @@ class RandomizedSetTest {
 
         assertTrue(set.insert(-2));
     }
+
     @Test
     void insertRemoveReformatTableSuccessTest() {
         RandomizedSet set = new RandomizedSet();

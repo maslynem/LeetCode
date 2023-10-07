@@ -33,7 +33,7 @@ class Solution {
         boolean[][] visited = new boolean[heights.length][heights[0].length];
         visited[i][j] = true;
         Deque<Integer> stack = new ArrayDeque<>();
-        addAdjacentVertex(heights,k,visited,i, j, stack);
+        addAdjacentVertex(heights, k, visited, i, j, stack);
 
         while (!stack.isEmpty()) {
             int pop = stack.pop();
@@ -45,21 +45,21 @@ class Solution {
             visited[i][j] = true;
             addAdjacentVertex(heights, k, visited, i, j, stack);
         }
-        return i == heights.length - 1 && j == heights[i].length -1;
+        return i == heights.length - 1 && j == heights[i].length - 1;
     }
 
     private static void addAdjacentVertex(int[][] heights, int k, boolean[][] visited, int i, int j, Deque<Integer> stack) {
         if (i - 1 >= 0 && !visited[i - 1][j] && Math.abs(heights[i - 1][j] - heights[i][j]) <= k) {
-            stack.push((i-1)*1000+j);
+            stack.push((i - 1) * 1000 + j);
         }
         if (i + 1 < heights.length && !visited[i + 1][j] && Math.abs(heights[i + 1][j] - heights[i][j]) <= k) {
-            stack.push((i+1)*1000+j);
+            stack.push((i + 1) * 1000 + j);
         }
         if (j - 1 >= 0 && !visited[i][j - 1] && Math.abs(heights[i][j - 1] - heights[i][j]) <= k) {
-            stack.push(i*1000+j-1);
+            stack.push(i * 1000 + j - 1);
         }
         if (j + 1 < heights[i].length && !visited[i][j + 1] && Math.abs(heights[i][j + 1] - heights[i][j]) <= k) {
-            stack.push(i*1000+j+1);
+            stack.push(i * 1000 + j + 1);
         }
     }
 }

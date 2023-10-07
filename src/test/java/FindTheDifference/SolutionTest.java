@@ -12,8 +12,8 @@ class SolutionTest {
 
     static Stream<Arguments> argumentsStream() {
         return Stream.of(
-            Arguments.of("abcd", "abcde", 'e'),
-            Arguments.of("", "y", 'y')
+                Arguments.of("abcd", "abcde", 'e'),
+                Arguments.of("", "y", 'y')
         );
     }
 

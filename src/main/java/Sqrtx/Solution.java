@@ -15,7 +15,7 @@ class Solution {
             int mid = left + (right - left) / 2;
             long root = (long) mid * mid;
             if (root < x) {
-                long nextRoot = ((long) (mid+1)) * (mid+1);
+                long nextRoot = ((long) (mid + 1)) * (mid + 1);
                 if (nextRoot > x) {
                     return mid;
                 }

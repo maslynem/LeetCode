@@ -16,8 +16,8 @@ class Solution {
             dp[0][i] = 1;
         }
 
-        for(int col = 1; col < m; ++col) {
-            for(int row = 1; row < n; ++row) {
+        for (int col = 1; col < m; ++col) {
+            for (int row = 1; row < n; ++row) {
                 dp[col][row] = dp[col - 1][row] + dp[col][row - 1];
             }
         }

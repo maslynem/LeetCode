@@ -18,7 +18,7 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
         int[] mergedArray = new int[m + n];
-        int i =0;
+        int i = 0;
         int j = 0;
         int index = 0;
         while (i < m && j < n) {

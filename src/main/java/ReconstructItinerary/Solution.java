@@ -15,6 +15,7 @@ class Solution {
     HashMap<String, boolean[]> visitBitmap = new HashMap<>();
     int flights = 0;
     List<String> result = null;
+
     public List<String> findItinerary(List<List<String>> tickets) {
         for (List<String> ticket : tickets) {
             String from = ticket.get(0);
@@ -25,7 +26,7 @@ class Solution {
             } else {
                 List<String> destList = new LinkedList<>();
                 destList.add(to);
-                flightMap.put(from,destList);
+                flightMap.put(from, destList);
             }
         }
 
@@ -42,6 +43,7 @@ class Solution {
         return this.result;
 
     }
+
     private boolean backtracking(String origin, LinkedList<String> route) {
         if (route.size() == this.flights + 1) {
             this.result = (List<String>) route.clone();

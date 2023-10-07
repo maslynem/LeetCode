@@ -13,11 +13,11 @@ class SolutionTest {
 
     static Stream<Arguments> argumentsStream() {
         return Stream.of(
-                Arguments.of(new String[]{"flo","fwoj","flower"}, "f"),
-                Arguments.of(new String[]{"flower","flow","fliwht"}, "fl"),
+                Arguments.of(new String[]{"flo", "fwoj", "flower"}, "f"),
+                Arguments.of(new String[]{"flower", "flow", "fliwht"}, "fl"),
                 Arguments.of(new String[]{"a"}, "a"),
-                Arguments.of(new String[]{"flower","flow","flight"}, "fl"),
-                Arguments.of(new String[]{"dog","racecar","car"}, "")
+                Arguments.of(new String[]{"flower", "flow", "flight"}, "fl"),
+                Arguments.of(new String[]{"dog", "racecar", "car"}, "")
         );
     }
 

@@ -7,7 +7,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 import java.util.List;
 import java.util.stream.Stream;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SolutionTest {
 
@@ -15,9 +15,9 @@ class SolutionTest {
 
     static Stream<Arguments> argumentsStream() {
         return Stream.of(
-                Arguments.of(3, List.of(1,3,3,1)),
+                Arguments.of(3, List.of(1, 3, 3, 1)),
                 Arguments.of(0, List.of(1)),
-                Arguments.of(1, List.of(1,1))
+                Arguments.of(1, List.of(1, 1))
         );
     }
 

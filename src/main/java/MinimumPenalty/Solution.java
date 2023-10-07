@@ -14,11 +14,11 @@ package MinimumPenalty;
 public class Solution {
     public int bestClosingTime(String customers) {
         int n = customers.length();
-        int[] maxBenefit = new int[n+1];
+        int[] maxBenefit = new int[n + 1];
 
         int countY = 0;
         int countN = 0;
- 
+
         for (int i = 0; i < n; i++) {
             maxBenefit[i] = Math.max(countY - countN, 0);
             if (customers.charAt(i) == 'Y') {

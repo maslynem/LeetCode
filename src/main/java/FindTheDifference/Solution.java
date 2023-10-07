@@ -16,6 +16,6 @@ class Solution {
         for (char c : s.toCharArray()) {
             answer -= c;
         }
-        return (char)answer;
+        return (char) answer;
     }
 }

@@ -12,7 +12,7 @@ class Solution {
         if (nums.length == 1) return true;
         Boolean increase = null;
         for (int i = 1; i < nums.length; i++) {
-            int prev = nums[i-1];
+            int prev = nums[i - 1];
             int cur = nums[i];
             if (prev == cur) continue;
             if (increase == null && prev < cur) {

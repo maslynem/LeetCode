@@ -1,6 +1,9 @@
 package GroupThePeopleGivenTheGroupSizeTheyBelongTo;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 /**
  * There are n people that are split into some unknown number of groups. Each person is labeled with a unique ID from 0 to n - 1.

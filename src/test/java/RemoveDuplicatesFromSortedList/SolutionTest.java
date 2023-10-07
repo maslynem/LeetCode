@@ -2,7 +2,8 @@ package RemoveDuplicatesFromSortedList;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
 class SolutionTest {
     private static final Solution solution = new Solution();
@@ -17,9 +18,10 @@ class SolutionTest {
         newHead = newHead.next;
         assertNull(newHead);
     }
+
     @Test
     void test2() {
-        ListNode head = new ListNode(1, new ListNode(1, new ListNode(2, new ListNode(3,new ListNode(3)))));
+        ListNode head = new ListNode(1, new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(3)))));
         ListNode newHead = solution.deleteDuplicates(head);
         assertEquals(1, newHead.val);
         newHead = newHead.next;

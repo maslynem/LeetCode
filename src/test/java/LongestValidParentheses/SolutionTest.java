@@ -2,7 +2,7 @@ package LongestValidParentheses;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SolutionTest {
     private static final Solution solution = new Solution();

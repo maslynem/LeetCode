@@ -48,6 +48,6 @@ class Solution {
 
     public int countOrders(int n) {
         memo = new long[n + 1][n + 1];
-        return (int)totalWays(n, n);
+        return (int) totalWays(n, n);
     }
 }

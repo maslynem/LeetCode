@@ -12,9 +12,9 @@ class SolutionTest {
 
     static Stream<Arguments> argumentsStream() {
         return Stream.of(
-            Arguments.of("11", "1", "100"),
-            Arguments.of("1111", "1111", "11110"),
-            Arguments.of("1010", "1011", "10101")
+                Arguments.of("11", "1", "100"),
+                Arguments.of("1111", "1111", "11110"),
+                Arguments.of("1010", "1011", "10101")
         );
     }
 

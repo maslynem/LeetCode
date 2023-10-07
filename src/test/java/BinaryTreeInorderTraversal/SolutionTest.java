@@ -14,15 +14,17 @@ class SolutionTest {
         TreeNode root = new TreeNode(1);
         root.right = new TreeNode(2);
         root.right.left = new TreeNode(3);
-        List<Integer> expected = List.of(1,3,2);
+        List<Integer> expected = List.of(1, 3, 2);
         Assertions.assertEquals(expected, solution.inorderTraversal(root));
     }
+
     @Test
     void test2() {
         TreeNode root = new TreeNode(1);
         List<Integer> expected = List.of(1);
         Assertions.assertEquals(expected, solution.inorderTraversal(root));
     }
+
     @Test
     void test3() {
         TreeNode root = null;

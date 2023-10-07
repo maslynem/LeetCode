@@ -29,15 +29,15 @@ class Solution {
 
     private int countSoldiers(int[] row) {
         int start = 0;
-        int end = row.length-1;
+        int end = row.length - 1;
 
-        while (start <= end){
-            int mid = start + (end - start)/2;
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
 
-            if(row[mid] < 1){
+            if (row[mid] < 1) {
                 end = mid - 1;
             } else {
-                start = mid +1;
+                start = mid + 1;
             }
         }
 

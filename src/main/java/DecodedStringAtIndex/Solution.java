@@ -21,8 +21,7 @@ class Solution {
             if (Character.isDigit(ch)) {
                 size /= ch - '0';
                 k %= size;
-            }
-            else {
+            } else {
                 if (k % size == 0) {
                     break;
                 }

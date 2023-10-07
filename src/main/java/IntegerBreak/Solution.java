@@ -23,23 +23,23 @@ class Solution {
 //    }
 
     /**
-     *  Bottom-Up Dynamic Solution
+     * Bottom-Up Dynamic Solution
      */
-        public int integerBreak(int n) {
-            if (n <= 3) {
-                return n - 1;
-            }
-            int[] dp = new int[n+1];
-            for (int i = 1; i <= 3; i++) {
-                dp[i] = i;
-            }
-            for (int i = 4; i <= n; i++) {
-                int ans = i;
-                for (int j = 2; j < ans; j++) {
-                    ans = Math.max(ans, j * dp[i-1]);
-                }
-                dp[i] = ans;
-            }
-            return dp[n];
+    public int integerBreak(int n) {
+        if (n <= 3) {
+            return n - 1;
         }
+        int[] dp = new int[n + 1];
+        for (int i = 1; i <= 3; i++) {
+            dp[i] = i;
+        }
+        for (int i = 4; i <= n; i++) {
+            int ans = i;
+            for (int j = 2; j < ans; j++) {
+                ans = Math.max(ans, j * dp[i - 1]);
+            }
+            dp[i] = ans;
+        }
+        return dp[n];
+    }
 }

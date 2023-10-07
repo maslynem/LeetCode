@@ -13,9 +13,9 @@ class SolutionTest {
 
     static Stream<Arguments> argumentsStream() {
         return Stream.of(
-            Arguments.of(new String[]{"a","b","ba","bca","bda","bdca"}, 4),
-            Arguments.of(new String[]{"xbc","pcxbcf","xb","cxbc","pcxbc"}, 5),
-            Arguments.of(new String[]{"abcd","dbqca"}, 1)
+                Arguments.of(new String[]{"a", "b", "ba", "bca", "bda", "bdca"}, 4),
+                Arguments.of(new String[]{"xbc", "pcxbcf", "xb", "cxbc", "pcxbc"}, 5),
+                Arguments.of(new String[]{"abcd", "dbqca"}, 1)
         );
     }
 

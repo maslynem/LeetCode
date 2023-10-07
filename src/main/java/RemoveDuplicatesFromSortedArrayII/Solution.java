@@ -11,11 +11,11 @@ class Solution {
             if (nums[k] != nums[i]) {
                 nums[++k] = nums[i];
                 counter = 1;
-            } else if (counter != 2){
+            } else if (counter != 2) {
                 nums[++k] = nums[i];
                 counter++;
             }
         }
-        return k+1;
+        return k + 1;
     }
 }
