@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 73/93 = 78%
+Solve myself 76/97 = 78%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -99,4 +99,8 @@ Solve myself 73/93 = 78%
 | 219    | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                                                       | [Java](src/main/java/ContainsDuplicateII/Solution.java)                              | Easy       |
 | 222    | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)                                                                               | [Java](src/main/java/CountCompleteTreeNodes/Solution.java)                           | Easy       |
 | 228    | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                                                                                                     | [Java](src/main/java/SummaryRanges/Solution.java)                                    | Easy       |
+| * 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)                                                           | [Java](src/main/java/MaxDotProductOfTwoSubsequences/Solution.java)                   | Hard       |
+| 231    | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                                         | [Java](src/main/java/PowerOfTwo/Solution.java)                                       | Easy       |
+| 226    | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                                             | [Java](src/main/java/InvertBinaryTree/Solution.java)                                 | Easy       |
+| 232    | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                                                         | [Java](src/main/java/ImplementQueueUsingStacks/MyQueue.java)                         | Easy       |
 
