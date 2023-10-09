@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 76/97 = 78%
+Solve myself 77/101 = 76%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -103,4 +103,8 @@ Solve myself 76/97 = 78%
 | 231    | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                                         | [Java](src/main/java/PowerOfTwo/Solution.java)                                       | Easy       |
 | 226    | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                                             | [Java](src/main/java/InvertBinaryTree/Solution.java)                                 | Easy       |
 | 232    | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                                                         | [Java](src/main/java/ImplementQueueUsingStacks/MyQueue.java)                         | Easy       |
+| 34     | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)                   | [Java](src/main/java/FindFirstAndLastPositionOfElementInSortedArray/Solution.java)   | Medium     |
+| * 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                                                               | [Java](src/main/java/BinaryTreePaths/Solution.java)                                  | Easy       |
+| * 258  | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                                             | [Java](src/main/java/AddDigits/Solution.java)                                        | Easy       |
+| * 263  | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                                           | [Java](src/main/java/UglyNumber/Solution.java)                                       | Easy       |
 
