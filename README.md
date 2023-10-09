@@ -107,4 +107,5 @@ Solve myself 77/101 = 76%
 | * 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                                                               | [Java](src/main/java/BinaryTreePaths/Solution.java)                                  | Easy       |
 | * 258  | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                                             | [Java](src/main/java/AddDigits/Solution.java)                                        | Easy       |
 | * 263  | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                                           | [Java](src/main/java/UglyNumber/Solution.java)                                       | Easy       |
+| 290    | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                                                         | [Java](src/main/java/WordPattern/Solution.java)                                      | Easy       |
 
