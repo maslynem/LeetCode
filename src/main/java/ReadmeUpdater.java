@@ -25,6 +25,7 @@ public class ReadmeUpdater {
                 }
             }
         }
+
         double solvedMyselfProblems = (double) problemCounter - asteriskCounter;
         String prepareNewString = String.format("Solve myself %.0f/%d = %.0f%%", solvedMyselfProblems, problemCounter, solvedMyselfProblems / problemCounter * 100);
         for (int i = 0; i < lines.size(); i++) {
