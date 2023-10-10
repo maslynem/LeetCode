@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 77/101 = 76%
+Solve myself 79/104 = 76%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -108,4 +108,6 @@ Solve myself 77/101 = 76%
 | * 258  | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                                             | [Java](src/main/java/AddDigits/Solution.java)                                        | Easy       |
 | * 263  | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                                           | [Java](src/main/java/UglyNumber/Solution.java)                                       | Easy       |
 | 290    | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                                                         | [Java](src/main/java/WordPattern/Solution.java)                                      | Easy       |
+| * 2009 | [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)                       | [Java](src/main/java/MinimumNumberOfOperationsToMakeArrayContinuous/Solution.java)   | Hard       |
+| 292    | [Nim Game](https://leetcode.com/problems/nim-game/)                                                                                                                 | [Java](src/main/java/NimGame/Solution.java)                                          | Easy       |
 
