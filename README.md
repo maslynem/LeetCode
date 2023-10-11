@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 79/104 = 76%
+Solve myself 79/105 = 75%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -110,4 +110,5 @@ Solve myself 79/104 = 76%
 | 290    | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                                                         | [Java](src/main/java/WordPattern/Solution.java)                                      | Easy       |
 | * 2009 | [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)                       | [Java](src/main/java/MinimumNumberOfOperationsToMakeArrayContinuous/Solution.java)   | Hard       |
 | 292    | [Nim Game](https://leetcode.com/problems/nim-game/)                                                                                                                 | [Java](src/main/java/NimGame/Solution.java)                                          | Easy       |
+| * 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)                                                                   | [Java](src/main/java/NumberOfFlowersInFullBloom/Solution.java)                       | Hard       |
 
