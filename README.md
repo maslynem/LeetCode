@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 80/106 = 75%
+Solve myself 81/107 = 76%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -112,4 +112,5 @@ Solve myself 80/106 = 75%
 | 292    | [Nim Game](https://leetcode.com/problems/nim-game/)                                                                                                                 | [Java](src/main/java/NimGame/Solution.java)                                          | Easy       |
 | * 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)                                                                   | [Java](src/main/java/NumberOfFlowersInFullBloom/Solution.java)                       | Hard       |
 | 303    | [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                                                               | [Java](src/main/java/RangeSumQueryImmutable/NumArray.java)                           | Easy       |
+| 1095   | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)                                                                                     | [Java](src/main/java/FindInMountainArray/Solution.java)                              | Hard       |
 
