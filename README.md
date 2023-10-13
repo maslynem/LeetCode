@@ -113,4 +113,5 @@ Solve myself 81/107 = 76%
 | * 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)                                                                   | [Java](src/main/java/NumberOfFlowersInFullBloom/Solution.java)                       | Hard       |
 | 303    | [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                                                               | [Java](src/main/java/RangeSumQueryImmutable/NumArray.java)                           | Easy       |
 | 1095   | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)                                                                                     | [Java](src/main/java/FindInMountainArray/Solution.java)                              | Hard       |
+| 746    | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                                                 | [Java](src/main/java/MinCostClimbingStairs/Solution.java)                            | Easy       |
 
