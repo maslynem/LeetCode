@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 81/107 = 76%
+Solve myself 83/111 = 75%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -114,4 +114,7 @@ Solve myself 81/107 = 76%
 | 303    | [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                                                               | [Java](src/main/java/RangeSumQueryImmutable/NumArray.java)                           | Easy       |
 | 1095   | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)                                                                                     | [Java](src/main/java/FindInMountainArray/Solution.java)                              | Hard       |
 | 746    | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                                                 | [Java](src/main/java/MinCostClimbingStairs/Solution.java)                            | Easy       |
+| * 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/)                                                                                             | [Java](src/main/java/PaintingTheWalls/Solution.java)                                 | Hard       |
+| * 342  | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                                                                       | [Java](src/main/java/PowerOfFour/Solution.java)                                      | Easy       |
+| 345    | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                                                             | [Java](src/main/java/ReverseVowelsOfString/Solution.java)                            | Easy       |
 
