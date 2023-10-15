@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 83/111 = 75%
+Solve myself 86/116 = 74%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -120,4 +120,6 @@ Solve myself 83/111 = 75%
 | * 1269 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)               | [Java](src/main/java/NumberOfWaysToStayInTheSamePlaceAfterSomeSteps/Solution.java)   | Hard       |
 | 349    | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                                                                             | [Java](src/main/java/IntersectionOfTwoArrays/Solution.java)                          | Easy       |
 | 367    | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                                                                         | [Java](src/main/java/ValidPerfectSquare/Solution.java)                               | Easy       |
+| 374    | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                                         | [Java](src/main/java/GuessNumberHigherOrLower/Solution.java)                         | Easy       |
+| * 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)                                                                                                         | [Java](src/main/java/BinaryWatch/Solution.java)                                      | Easy       |
 
