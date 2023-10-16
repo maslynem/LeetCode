@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 86/116 = 74%
+Solve myself 88/118 = 75%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -122,4 +122,6 @@ Solve myself 86/116 = 74%
 | 367    | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                                                                         | [Java](src/main/java/ValidPerfectSquare/Solution.java)                               | Easy       |
 | 374    | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                                         | [Java](src/main/java/GuessNumberHigherOrLower/Solution.java)                         | Easy       |
 | * 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)                                                                                                         | [Java](src/main/java/BinaryWatch/Solution.java)                                      | Easy       |
+| 404    | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                                                             | [Java](src/main/java/SumOfLeftLeaves/Solution.java)                                  | Easy       |
+| 405    | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)                                                                   | [Java](src/main/java/ConvertNumberToHexadecimal/Solution.java)                       | Easy       |
 
