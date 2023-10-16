@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 88/118 = 75%
+Solve myself 91/121 = 75%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -124,4 +124,7 @@ Solve myself 88/118 = 75%
 | * 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)                                                                                                         | [Java](src/main/java/BinaryWatch/Solution.java)                                      | Easy       |
 | 404    | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                                                             | [Java](src/main/java/SumOfLeftLeaves/Solution.java)                                  | Easy       |
 | 405    | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)                                                                   | [Java](src/main/java/ConvertNumberToHexadecimal/Solution.java)                       | Easy       |
+| 409    | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                                                             | [Java](src/main/java/LongestPalindrome/Solution.java)                                | Easy       |
+| 414    | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                                                                         | [Java](src/main/java/ThirdMaximumNumber/Solution.java)                               | Easy       |
+| 415    | [Add Strings](https://leetcode.com/problems/add-strings/)                                                                                                           | [Java](src/main/java/AddStrings/Solution.java)                                       | Easy       |
 
