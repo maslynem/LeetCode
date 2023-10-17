@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 91/121 = 75%
+Solve myself 92/123 = 75%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -127,4 +127,6 @@ Solve myself 91/121 = 75%
 | 409    | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                                                             | [Java](src/main/java/LongestPalindrome/Solution.java)                                | Easy       |
 | 414    | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                                                                         | [Java](src/main/java/ThirdMaximumNumber/Solution.java)                               | Easy       |
 | 415    | [Add Strings](https://leetcode.com/problems/add-strings/)                                                                                                           | [Java](src/main/java/AddStrings/Solution.java)                                       | Easy       |
+| * 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)                                                                             | [Java](src/main/java/ValidateBinaryTreeNodes/Solution.java)                          | Medium     |
+| 434    | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)                                                                     | [Java](src/main/java/NumberOfSegmentsInString/Solution.java)                         | Easy       |
 
