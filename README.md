@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 91/121 = 75%
+Solve myself 92/123 = 75%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -127,4 +127,6 @@ Solve myself 91/121 = 75%
 | 409    | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                                                             | [Java](src/main/java/LongestPalindrome/Solution.java)                                | Easy       |
 | 414    | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                                                                         | [Java](src/main/java/ThirdMaximumNumber/Solution.java)                               | Easy       |
 | 415    | [Add Strings](https://leetcode.com/problems/add-strings/)                                                                                                           | [Java](src/main/java/AddStrings/Solution.java)                                       | Easy       |
+| * 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii)                                                                                          | [Java](src/main/java/ParallelCoursesIII/Solution.java)                               | Hard       |
+| 1662   | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                                               | [Java](src/main/java/CheckIfTwoStringArraysAreEquivalent/Solution.java)              | Easy       |
 
