@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 94/126 = 75%
+Solve myself 96/128 = 75%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -132,4 +132,6 @@ Solve myself 94/126 = 75%
 | * 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii)                                                                                          | [Java](src/main/java/ParallelCoursesIII/Solution.java)                               | Hard       |
 | 1662   | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                                               | [Java](src/main/java/CheckIfTwoStringArraysAreEquivalent/Solution.java)              | Easy       |
 | 844    | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                                                                 | [Java](src/main/java/BackspaceStringCompare/Solution.java)                           | Easy       |
+| 441    | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                                                                                                   | [Java](src/main/java/ArrangingCoins/Solution.java)                                   | Easy       |
+| 448    | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                                                 | [Java](src/main/java/FindAllNumbersDisappearedInAnArray/Solution.java)               | Easy       |
 
