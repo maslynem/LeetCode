@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 93/125 = 74%
+Solve myself 94/126 = 75%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -131,4 +131,5 @@ Solve myself 93/125 = 74%
 | 434    | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)                                                                     | [Java](src/main/java/NumberOfSegmentsInString/Solution.java)                         | Easy       |
 | * 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii)                                                                                          | [Java](src/main/java/ParallelCoursesIII/Solution.java)                               | Hard       |
 | 1662   | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                                               | [Java](src/main/java/CheckIfTwoStringArraysAreEquivalent/Solution.java)              | Easy       |
+| 844    | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                                                                 | [Java](src/main/java/BackspaceStringCompare/Solution.java)                           | Easy       |
 
