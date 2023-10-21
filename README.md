@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 96/128 = 75%
+Solve myself 96/130 = 74%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -135,4 +135,5 @@ Solve myself 96/128 = 75%
 | 441    | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                                                                                                   | [Java](src/main/java/ArrangingCoins/Solution.java)                                   | Easy       |
 | 448    | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                                                 | [Java](src/main/java/FindAllNumbersDisappearedInAnArray/Solution.java)               | Easy       |
 | * 341  | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)                                                                         | [Java](src/main/java/FlattenNestedListIterator/NestedIterator.java)                  | Medium     |
+| * 1425 | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)                                                                           | [Java](src/main/java/ConstrainedSubsequenceSum/Solution.java)                        | Hard       |
 
