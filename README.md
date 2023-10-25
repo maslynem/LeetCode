@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 100/135 = 74%
+Solve myself 101/136 = 74%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -141,4 +141,5 @@ Solve myself 100/135 = 74%
 | 463    | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                                                                 | [Java](src/main/java/IslandPerimeter/Solution.java)                                  | Easy       |
 | 515    | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)                                                           | [Java](src/main/java/FindLargestValueInEachTreeRow/Solution.java)                    | Medium     |
 | 476    | [Number Complement](https://leetcode.com/problems/number-complement/)                                                                                               | [Java](src/main/java/NumberComplement/Solution.java)                                 | Easy       |
+| 779    | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)                                                                                     | [Java](src/main/java/KthSymbolInGrammar/Solution.java)                               | Medium     |
 
