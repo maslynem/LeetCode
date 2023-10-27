@@ -143,4 +143,5 @@ Solve myself 102/137 = 74%
 | 476    | [Number Complement](https://leetcode.com/problems/number-complement/)                                                                                               | [Java](src/main/java/NumberComplement/Solution.java)                                 | Easy       |
 | 779    | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)                                                                                     | [Java](src/main/java/KthSymbolInGrammar/Solution.java)                               | Medium     |
 | 482    | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                                                                     | [Java](src/main/java/LicenseKeyFormatting/Solution.java)                             | Easy       |
+| * 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                                       | [Java](src/main/java/LongestPalindromicSubstring/Solution.java)                      | Medium     |
 
