@@ -2,7 +2,7 @@
 
 NB! * means that the problem was solved with editorial
 
-Solve myself 102/137 = 74%
+Solve myself 103/139 = 74%
 
 | #      | Title                                                                                                                                                               | Solution                                                                             | Difficulty |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------|
@@ -144,4 +144,5 @@ Solve myself 102/137 = 74%
 | 779    | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)                                                                                     | [Java](src/main/java/KthSymbolInGrammar/Solution.java)                               | Medium     |
 | 482    | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                                                                     | [Java](src/main/java/LicenseKeyFormatting/Solution.java)                             | Easy       |
 | * 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                                       | [Java](src/main/java/LongestPalindromicSubstring/Solution.java)                      | Medium     |
+| 1356   | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)                                                        | [Java](src/main/java/SortIntegersByTheNumberOfFirstBits/Solution.java)               | Easy       |
 
